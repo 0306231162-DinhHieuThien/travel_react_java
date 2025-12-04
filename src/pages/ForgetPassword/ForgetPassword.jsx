@@ -51,5 +51,5 @@ const ForgetPassword = () => {
   );
 };
 
-//  Hello
+
 export default ForgetPassword;
